@@ -1,2 +1,2 @@
 # AI-E-Commerce
-Intelligent E-Commerce Search Engine
+This project is a smart semantic search engine tailored for e-commerce platforms. Built with FastAPI, LangChain, GPT-4.0, and Bright Data, it understands natural language queries like “red sneakers under $70” and delivers accurate, ranked results in real time. It uses OpenAI embeddings, Elasticsearch or Pinecone, and LangGraph/MCP for modular agent workflows. Features include semantic search, fuzzy matching, query parsing, autocomplete, and vector-based ranking with business logic customization. The frontend integrates seamlessly with React and can plug into Shopify, WooCommerce, or custom stores. Optimized for conversions and scale, it’s ideal for developers looking to upgrade search UX with cutting-edge AI tools.
